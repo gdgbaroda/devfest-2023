@@ -128,12 +128,12 @@ TODO (@knightkill)
         <div class="event-time">
             <div class="section">
                 <div class="hero-main-title">Welcome to DevFest Baroda 2024</div>
-                <div class="hero-title">Nov. 26</div>
+                <div class="hero-title">Nov. 09 & Nov. 10</div>
                 <div class="hero-subtitle">
                     <span>2</span>
                     <span>0</span>
                     <span>2</span>
-                    <span>3</span>
+                    <span>4</span>
                 </div>
             </div>
             <ul class="countdown">
