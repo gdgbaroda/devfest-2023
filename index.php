@@ -12,21 +12,21 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Devfest 2023 - GDG Baroda</title>
-    <meta name="description" content="GDG Baroda Devfest 2023"/>
+    <meta name="description" content="GDG Baroda Devfest 2024"/>
     <meta name="author" content="GDG Baroda Team">
-    <meta property="og:title" content="GDG Baroda Devfest 2023"/>
+    <meta property="og:title" content="GDG Baroda Devfest 2024"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content=""/>
     <meta property="og:image" content=""/>
     <meta property="og:image:width" content="470"/>
     <meta property="og:image:height" content="246"/>
     <meta property="og:site_name" content=""/>
-    <meta property="og:description" content="Devfest 2023 promotional site for GDG Baroda"/>
+    <meta property="og:description" content="Devfest 2024 promotional site for GDG Baroda"/>
     <meta name="twitter:card" content=""/>
     <meta name="twitter:site" content=""/>
     <meta name="twitter:domain" content="https://devfest.gdgbaroda.com/"/>
     <meta name="twitter:title" content=""/>
-    <meta name="twitter:description" content="GDG Baroda Devfest 2023"/>
+    <meta name="twitter:description" content="GDG Baroda Devfest 2024"/>
     <meta name="twitter:image" content="https://devfest.gdgbaroda.com/"/>
 
     <!-- Mobile Specific Metas
@@ -127,7 +127,7 @@ TODO (@knightkill)
         </nav>
         <div class="event-time">
             <div class="section">
-                <div class="hero-main-title">Welcome to DevFest Baroda 2023</div>
+                <div class="hero-main-title">Welcome to DevFest Baroda 2024</div>
                 <div class="hero-title">Nov. 26</div>
                 <div class="hero-subtitle">
                     <span>2</span>

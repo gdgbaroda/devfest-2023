@@ -12,7 +12,7 @@
                 </p>
             </div>
             <div class="col-md-12 copyright">
-                <p><small>© 2023 GDG Baroda. All rights reserved.</small></p>
+                <p><small>© 2024 GDG Baroda. All rights reserved.</small></p>
             </div>
         </div>
     </div>
