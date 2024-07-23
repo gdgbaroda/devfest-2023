@@ -11,14 +11,6 @@ $team_members = [
             ]
     ),
     new Team(
-            'Chintan',
-            [
-                    'github' => 'https://github.com/jcredking',
-                    'linkedin' => 'https://www.linkedin.com/in/chintanjoshi-',
-                    'twitter' => 'https://x.com/chintanjoshi01'
-            ]
-    ),
-    new Team(
         'Dron',
         [
             'linkedin' => 'https://www.linkedin.com/in/drontrivedi',
@@ -43,33 +35,12 @@ $team_members = [
             ]
     ),
     new Team(
-            'Krinish',
-            [
-                    'github' => 'https://github.com/krinish291',
-                    'linkedin' => 'https://www.linkedin.com/in/krinish-radadiya-035425190',
-                    'twitter' => 'https://twitter.com/R291Krinish'
-            ]
-    ),
-    new Team(
             'Kushal',
             [
                     'github' => 'https://github.com/kushal2011',
                     'linkedin' => 'https://www.linkedin.com/in/kushaldave-android',
                     'twitter' => 'https://twitter.com/that_kushal_guy'
             ]
-    ),
-    new Team(
-            'Parag',
-            [
-                    'linkedin' => 'https://www.linkedin.com/in/parag-nema',
-            ]
-    ),
-    new Team(
-        'Prachi',
-        [
-            'linkedin' => 'https://www.linkedin.com/in/prachi-d-158965b',
-            'twitter' => 'https://twitter.com/PrachiSSD'
-        ]
     ),
     new Team(
         'Rahul',
@@ -79,23 +50,6 @@ $team_members = [
             'twitter' => 'https://twitter.com/bankerrahul'
         ]
     ),
-    new Team(
-            'Sarthak',
-            [
-                    'github' => 'https://github.com/Not-Sarthak',
-                    'linkedin' => 'https://www.linkedin.com/in/sarthak-shah-49267b224',
-                    'twitter' => 'https://x.com/0xSarthak13'
-            ]
-    ),
-    new Team(
-            'Yuvraj',
-            [
-                    'github' => 'https://github.com/YuvrajAh',
-                    'linkedin' => 'https://www.linkedin.com/in/yuvraj-ahuja-144bb1228',
-                    'twitter' => 'https://x.com/AhujaYuvraj1'
-            ]
-    ),
-    // Add more team members here
 ];
 
 if (empty($team_members)) {
